@@ -1,0 +1,17 @@
+id,set,start,endtime,startbidprice,initialbidprice,ref,category,product,description,mrp,base
+1,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,457,Electronics & Appliances,ELECTRIC BREAST PUMP,ELECTRIC BREAST PUMP (Gold & Pink)    ,8999,8909
+2,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,760,Electronics & Appliances,FETAL DOPPLER,FETAL DOPPLER    ,6999,6929
+3,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,1101,Health Appliances,ELECTRIC BREAST PUMP ,ELECTRIC BREAST PUMP ,8999,8909
+4,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,1122,Health Appliances,YOGA ROLLER VIBRATING,waldon vibrating yoga roller,8999,8909
+5,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,1120,Home Furnishing,Bedsheet Combo Set,own your pastels 5 cotton bed sheet + 10 pillow covers + 1 bedsheet free,5500,5445
+6,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,776,Electronics & Appliances,YOGA ROLLER VIBRATING,YOGA ROLLER VIBRATING (WAVE PATTERN)    ,8999,8909
+7,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,1123,Health Appliances,YOGA ROLLER VIBRATING,waldon vibrating yoga roller,8999,8909
+8,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,1124,Home Furnishing,Bedsheet Combo Set,Jaipuri Heritage Pack of 5 Cotton Bedsheets with 10 Pillow Covers,5200,5148
+9,1,2021-10-20 09:00:00 +0000 +0000,2021-10-21 09:00:00 +0000 +0000,1,1,1117,Home Furnishing,Bedsheet Set,Bright Festive Collection Pack of 7 Bedsheets with 14 Pillow Covers,6900,6831
+10,2,2021-10-20 17:00:00 +0000 +0000,2021-10-21 17:00:00 +0000 +0000,1,1,1123,Home Furnishing,Bedsheet Combo Set,Pastel collection: 5 Cotton bed sheet + 10 pillow covers + 5 cushion covers,5200,5148
+11,2,2021-10-20 17:00:00 +0000 +0000,2021-10-21 17:00:00 +0000 +0000,1,1,1122,Home Furnishing,Bedsheet Set,Spring Summer Collection Pack of 7 Bedsheetts with 14 Pillow  Covers,5500,5445
+12,2,2021-10-20 17:00:00 +0000 +0000,2021-10-21 17:00:00 +0000 +0000,1,1,775,Electronics & Appliances,YOGA ROLLER VIBRATING,YOGA ROLLER VIBRATING (CIRCLE DOT PATTERN)    ,8999,8909
+13,2,2021-10-20 17:00:00 +0000 +0000,2021-10-21 17:00:00 +0000 +0000,1,1,1119,Home Furnishing,Bedsheets,Xtromac New Shape Pack of 8 Double Bedsheet + 16 PCs + Free 5 N95 Masks,5999,5939
+14,2,2021-10-20 17:00:00 +0000 +0000,2021-10-21 17:00:00 +0000 +0000,1,1,1118,Home Furnishing,Bedsheet Set,Delightful collection pack of 7 bed sheet with 14 pillow covers,6500,6435
+15,2,2021-10-20 17:00:00 +0000 +0000,2021-10-21 17:00:00 +0000 +0000,1,1,1121,Home Furnishing,Bedsheet Set,Classic D?cor pack of 7 bed sheet with 14 pillow covers,5500,5445
+16,2,2021-10-20 17:00:00 +0000 +0000,2021-10-21 17:00:00 +0000 +0000,1,1,1116,Health Appliances,FETAL DOPPLER,Dr. Odin fetal Doppler,6999,6929

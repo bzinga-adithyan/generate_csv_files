@@ -1,0 +1,626 @@
+id,set,start,endtime,startbidprice,initialbidprice,ref,category,product,description,mrp,base
+1,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,1145,Home & Kitchen,Wall art,5Frames0154 waterfall frame,1999,1979
+2,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,1149,Apparel,Men's Solid Polo T-Shirts,Gary Cooper Pack of 4 Men's Solid Polo T-Shirts Size-S,1500,1485
+3,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,486,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Organiser ,Water Resistant Red",1499,1484
+4,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,354,Home & Kitchen,Space Saving Shoe Rack,4 Layer Z Type Lightweight Sleek Space Saving Shoe Organizer Rack,1999,1979
+5,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,305,Apparel,Kurti and Jacket Set,Pick Any 1 Brocade Pink Jacket & Blue Kurta Size-XXL,1499,1484
+6,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,399,Home & Kitchen,Wall Clock 3DSticker Home,Wall Clock 3D Sticker Decor Wall Clock(Area: 45 x 45cm)- DIYM07-SLV-SL    ,1999,1979
+7,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,1137,Apparel,Pink Floorlenght Dress,Shree Pick Any1 Floor Length Dresses Pink Size-XL,2199,2177
+8,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,728,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Multi,2598,2572
+9,1,2021-10-20 09:00:00 +0000 +0000,2021-10-20 10:00:00 +0000 +0000,1,1,1164,Kitchen,Pressure Cooker Combo,Shagun 1.5+2+3+5 Lit. Pressure Cooker Set with 2 Common Lids,2999,2969
+10,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,1149,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Embroidered Cosy Winter Kurta Wine-Free Size,2999,2969
+11,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,467,Home & Kitchen,Wall Clock 3D Sticker,Shopper52 DIY Wall Clock 3D Sticker (Covering Area:30cm * 30cm)   ,1499,1484
+12,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,338,Electronics & Appliances,School Lunch Bag and Box,Insulated Lunch Bag and Box for Home and Office Use Canvas Black ,1499,1484
+13,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,716,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Brown,2998,2968
+14,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,1193,Home & Kitchen,Wall art,5Frames0209 ship frame,1999,1979
+15,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,703,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Black,2998,2968
+16,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,1140,Apparel,Smart Casual Pants,Curllie Pack of 3 Smart Casual Pants-XXL,2199,2177
+17,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,395,Home & Kitchen,"Handsfree soap,sanitiser",Shopper52 Automatic Hands Free Liquid Soap & Sanitizers - SPDIS    ,1999,1979
+18,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,468,Home & Kitchen,Hammer Knife& Carry Pouch,12 In 1 Multiutility Hammer Knife With Carry Pouch Toolkit - H8089    ,1499,1484
+19,2,2021-10-20 09:20:00 +0000 +0000,2021-10-20 10:20:00 +0000 +0000,1,1,393,Home & Kitchen,Multipurpose Backpack,Shopper52 Multipurpose Foldable Lightweight backpack Bag Blue–TRBAGPACK    ,1499,1484
+20,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,357,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+21,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,757,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Pink,2598,2572
+22,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,1306,Apparel,Kurti and lower set,Pick any 1 Modern Kurta Yellow & Red Bottom set Size-L,1799,1781
+23,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,849,Home Furnishing,Microfibre Bedsheet,Valito Microfibre 120 TC Bedsheet (Double_Brown),1399,1385
+24,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,687,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater White,2998,2968
+25,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,755,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Brown,2598,2572
+26,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,432,Home & Kitchen,Wall Clock 3D Sticker,DIY Wall Clock 3D Sticker Home Office Decor Wall Clock (Black-Silver)  ,1999,1979
+27,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,369,Home & Kitchen,LED Bluetooth Speaker,Music LED Bulb Bluetooth Speaker(White),1999,1979
+28,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,304,Electronics & Appliances,DIY Hot Melt Glue Gun,Hot Melt Glue Gun for DIY Craft and Decoration 40w with 2 Glue Stick ,1299,1286
+29,3,2021-10-20 09:40:00 +0000 +0000,2021-10-20 10:40:00 +0000 +0000,1,1,303,Electronics & Appliances,Hot Melt Plastic Glue Gun," Hot Melt Plastic Glue Gun with 2 Glue Sticks for Decorating Purpose ",1299,1286
+30,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,375,Home & Kitchen,Insulated Lunch Bag,Canvas Portable Thermal Insulated Lunch Bag with Handle(Multi-22)    ,1499,1484
+31,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,1143,Apparel,Embroidered Woolen kurta,Woolkraft Colour Fantasy Woollen Embroidered Kurta Black-Free Size,2999,2969
+32,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,416,Home Furnishing,Bedsheet Set,Pack of 2 Floral Fitted Double Size with Elastic Bedsheet & 4 Pillow covers,1999,1979
+33,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,1148,Apparel,Woolen Elegance kurta,Woolkraft Pick Any 1 Woollen Elegance Kurta Olive-Free Size,2999,2969
+34,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,1222,Home & Kitchen,Wall art,5Frames0238 river frame,1999,1979
+35,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,1147,Apparel,Men's Sweatshirt,Gary Cooper Pack Of 3 Men's Sweatshirts-S,2100,2079
+36,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,721,Apparel,Women Pop Collection Top ,Bloomeri Pretty Pop Collection Size -L,2997,2967
+37,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,773,Home & Kitchen,Laptop bed table,Adjustable Foldable Portable Laptop Kids Study Table Bed Table ,2499,2474
+38,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,734,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Multi,2598,2572
+39,4,2021-10-20 10:00:00 +0000 +0000,2021-10-20 11:00:00 +0000 +0000,1,1,1305,Apparel,Kurti and lower set,Pick any 1 Modern Kurta Yellow & Red Bottom set Size-M,1799,1781
+40,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,1136,Home Furnishing,Deewan Set,Royal roots pick any 1 foil print deewan set -blue,2300,2277
+41,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,390,Home & Kitchen,Insulated Lunch Bag,Shopper52 Canvas Protable Thermal Insulated Lunch Bag(Multi-18)    ,1499,1484
+42,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,1211,Home & Kitchen,Wall art,5Frames0227 fishes frame,1999,1979
+43,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,1295,Jewellery,Earrings Set,Statement Earrings by  Faryal,1800,1782
+44,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,721,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Blue,2598,2572
+45,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,777,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe(Peach, 200 GSM)",2499,2474
+46,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,415,Home & Kitchen,Cabinet Shoe Organiser,Shopper52 Stackable Shoe Rack Storage Stand Shoe Cabinet Shoe Organiser,1999,1979
+47,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,789,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star (Dark Grey and Beige, 200 GSM)",2499,2474
+48,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,1182,Home & Kitchen,Wall art,5Frames0197 city frame,1999,1979
+49,5,2021-10-20 10:20:00 +0000 +0000,2021-10-20 11:20:00 +0000 +0000,1,1,774,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter (Blue and Sky Blue, 200 GSM)",2499,2474
+50,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,838,Apparel,Boys T-shirt Set,Pack of 5 Boys Tshirts Size 2-3  yrs,1495,1480
+51,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,1130,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter -Star and Stripe (Grey ,200 GSM)",2999,2969
+52,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,1137,Accessories,HAIR TRIMER WALDON,Waldon Beard Trimmer with a powerful battery and superior features,1699,1682
+53,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,408,Home & Kitchen,"Broom,Dustpan & Wiper Set",Shopper52 Set of 5 pcs Broom Brush Set with Dustpan and Wiper Cleaning Set ,2000,1980
+54,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,1262,Home & Kitchen,Wall art,5Frames0287 abstract frame,1999,1979
+55,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,1143,Apparel,Shawl Set,Royal Shawls Everyday Dressy - Pack of 3 Shawls,2100,2079
+56,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,324,Home Furnishing,Microfibre Bedsheet,Aurome premium micro fibre double bedsheet with 2 pillow covers-Check print,1499,1484
+57,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,483,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Organiser ,Water Resistant Red",1499,1484
+58,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,313,Electronics & Appliances,DIY Hot Melt Glue Gun,Hot Melt Glue Gun for DIY Craft and Decoration 40w with 10 Glue Stick Free,1299,1286
+59,6,2021-10-20 10:40:00 +0000 +0000,2021-10-20 11:40:00 +0000 +0000,1,1,1128,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter -Star & Stripe (Maroon , 200 GSM)",2999,2969
+60,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,708,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Black,2998,2968
+61,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,1238,Home & Kitchen,Wall art,5Frames0262 river frame,1999,1979
+62,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,684,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Beige,2998,2968
+63,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,305,Electronics & Appliances,DIY Hot Melt Glue Gun,Hot Melt Glue Gun for DIY Craft and Decoration 40w with 4 Glue Stick Free,1299,1286
+64,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,706,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyesterr Stretchable Two Seater Floral,2998,2968
+65,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,1132,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter -Star (Light & Dark Pink ,200 GSM)",2999,2969
+66,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,1189,Home & Kitchen,Wall art,5Frames0205 ship frame,1999,1979
+67,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,1243,Home & Kitchen,Wall art,5Frames0267 elephant frame,1999,1979
+68,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,1138,Apparel,Pink Floorlenght Dress,Shree Pick Any1 Floor Length Dresses Pink Size-XXL,2199,2177
+69,7,2021-10-20 11:00:00 +0000 +0000,2021-10-20 12:00:00 +0000 +0000,1,1,1141,Apparel,Kurta and Stoll Set,Jaasvi Pack of 2 Woolen Kurtas & 2 Stolls-M,1599,1583
+70,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,1,Jewellery,Pendant Necklace Set,"Sparkling Statement by Faryal(3 Pandent, 3 Earrings with 1 Chain)",2000,1980
+71,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,1138,Apparel,Lehenga and Kurta Set,Rangeeli Ethnic Kids Shop - Lehenga & Multi Layer Kurta Size 8-9 yrs,1698,1681
+72,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,315,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet + 2 pillow covers check print,1499,1484
+73,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,318,Home Furnishing,Anti Skid Mat,"Aurome Anti-Skid Cotton Bath/Door Mat Set of 2(Size-51x80 cm, 43x62 cm)",1499,1484
+74,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,744,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Yellow,2598,2572
+75,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,359,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+76,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,342,Electronics & Appliances,School Lunch Bag and Box,Insulated Lunch Bag and Box for Home and Office Use Yellow,1499,1484
+77,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,443,Electronics & Appliances,Trimmer Shaver Set,Shopper52 Edwin Clark Rechargeable Cordless Men's Trimmer Shaver Set  ,1999,1979
+78,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,1204,Home & Kitchen,Wall art,5Frames0220 railtrack frame,1999,1979
+79,8,2021-10-20 11:20:00 +0000 +0000,2021-10-20 12:20:00 +0000 +0000,1,1,421,Home & Kitchen,Electric Heated Mug,Accedre Stainless Steel Electric Heated Travel Mug - CMSS    ,1499,1484
+80,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,692,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Black,2998,2968
+81,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,1187,Home & Kitchen,Wall art,5Frames0202 city frame,1999,1979
+82,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,1276,Home & Kitchen,Wall art,5Frames0304 peacock frame,1999,1979
+83,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,637,Home & Kitchen," Food Blender",Electric 7with 4 Pieces Stainless Steel Food Blender - HANDMX    ,1999,1979
+84,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,325,Home Furnishing,Microfibre Bedsheet,Aurome premium micro fibre double bedsheet with 2 pillow covers-Shape print,1499,1484
+85,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,990,Home & Kitchen,Camping foldable tent,"Anti Ultraviolet Outdoor Camping Portable Foldable Tent, Water Resistant ",2999,2969
+86,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,1279,Home & Kitchen,Wall art,5Frames0307 radha krishna frame,1999,1979
+87,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,1258,Home & Kitchen,Wall art,5Frames0283 snow on the tree frame,1999,1979
+88,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,1171,Home & Kitchen,Wall art,5Frames0184 forest frame,1999,1979
+89,9,2021-10-20 11:40:00 +0000 +0000,2021-10-20 12:40:00 +0000 +0000,1,1,1090,Home & Kitchen,Wall spray gun tool,Portable Wall Paint Zoom Spray Gun Tool    ,2999,2969
+90,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,1272,Home & Kitchen,Wall art,5Frames0300 dancing peacock frame,1999,1979
+91,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,1166,Home & Kitchen,Wall art,5Frames0175 tree frame,1999,1979
+92,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,813,Home & Kitchen,13 pc Steel Knife Scissor,shopper52 13 Piece Stainless Steel Scissor knife set,1999,1979
+93,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,732,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Purple,2598,2572
+94,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,1148,Home & Kitchen,Wall art,5Frames0157 beautiful frame,1999,1979
+95,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,1147,Apparel,Woolen Elegance kurta,Woolkraft Pick Any 1 Woollen Elegance Kurta Rust-Free Size,2999,2969
+96,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,740,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Purple,2598,2572
+97,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,773,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter (Grey and Olive Green, 200 GSM)",2499,2474
+98,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,1153,Apparel,Fancy Woolen Shrug,Woolkraft Pick Any 1 Fancy Woolen Shrug Grey-Free Size,2999,2969
+99,10,2021-10-20 12:00:00 +0000 +0000,2021-10-20 13:00:00 +0000 +0000,1,1,809,Home & Kitchen,Steel Portable shoe rack,4 later Stainless Steel Portable Folding Shoe Rack Book Cloth Shelf ,1499,1484
+100,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,1018,Home & Kitchen,Foldable Laptop table,Foldable Laptop Table with 2 USB Cooling Fans - ETB001  ,1999,1979
+101,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,1131,Accessories,Waldon Hair Clipper,Waldon Professional Hair Clipper with powerful battery,2499,2474
+102,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,1144,Home & Kitchen,Wall art,5Frames0153 river frame,1999,1979
+103,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,482,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Organiser ,Water Resistant Blue   ",1499,1484
+104,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,1152,Apparel,Women Winter Dress,Gary Cooper Pack of 2 Women's Winter Dresses-XL,1500,1485
+105,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,311,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet + 2 pillow covers-multicolor ,1499,1484
+106,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,427,Home & Kitchen,Travel Shoe Storage,Shopper52 Multi-Purpose Travel  Footwear Organizer(2 Layer Bag) Grey  ,1499,1484
+107,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,1133,Home,Cleaning Combo Set,Clean Plus Mop Combo,2398,2374
+108,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,1154,Home & Kitchen,Wall art,5Frames0163 sunset frame,1999,1979
+109,11,2021-10-20 12:20:00 +0000 +0000,2021-10-20 13:20:00 +0000 +0000,1,1,1122,Home Furnishing,Comforter Bedsheet Set,Aurome microfibre comforter with double bedsheet & 2 pillow covers-Stars,2999,2969
+110,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,1145,Apparel,3 Dress Set,Curllie All Set to Dazzle - Pack of 3 Dresses-L,1599,1583
+111,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,366,Home & Kitchen,Portable Laptop desk,Foldable Portable Adjustable Multifunction Laptop Study desk with Cup Slot,2499,2474
+112,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,1139,Apparel,Cotton Blend Bengal Saree,Chhabra555 Pick Any 1 Cotton Blend Bengal Saree Red,1599,1583
+113,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,1233,Home & Kitchen,Wall art,5Frames0256 autumn frame,1999,1979
+114,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,339,Electronics & Appliances,School Lunch Bag and Box,Lunch Bag and Box for Home and Office Use Green,1499,1484
+115,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,344,Electronics & Appliances,Facial Massager,5 in 1 Smoothing Beauty Care Facial Massager Accupressure Massager,1499,1484
+116,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,696,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Brown,2998,2968
+117,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,1138,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Woollen Embroidered Kurta Blue-Free Size,2999,2969
+118,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,1260,Home & Kitchen,Wall art,5Frames0285 abstract frame,1999,1979
+119,12,2021-10-20 12:40:00 +0000 +0000,2021-10-20 13:40:00 +0000 +0000,1,1,403,Home & Kitchen,Knife Set & Holder,Kitchen Knife Set with Magnetic Knife Holder - CMHKNHNG    ,1999,1979
+120,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,608,Home & Kitchen,Portable Grill BBQ Oven,Portable Foldable Charcoal Grill Barbecue Oven  - GRILLBQ  ,1999,1979
+121,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,1169,Home & Kitchen,Wall art,5Frames0182 waterfall frame,1999,1979
+122,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,425,Home & Kitchen,Travel Shoe Storage,Shopper52 Multi-Purpose Travel  Footwear Storage Organizer(2 Layer Bag) ,1499,1484
+123,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,343,Electronics & Appliances,Steel Multipurpose Wrench,Snap N Grip Red Steel Multipurpose Wrench Set Of 2 - SNPGRP    ,1499,1484
+124,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,619,Home & Kitchen,Screwdriver Socket Set,46-in-1 PcsScrewdriver Socket Set- 46PCTK    ,2999,2969
+125,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,1200,Home & Kitchen,Wall art,5Frames0216 hut frame,1999,1979
+126,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,1141,Home Furnishing,Curtain Set with rings,Aurome Window Curtain Set of 2[5x 4Ft] 3D Printed + Polyester Steel Rings,2199,2177
+127,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,779,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe(Dark Blue, 200 GSM)",2499,2474
+128,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,333,Electronics & Appliances,Polyester Travel Bag ,Storage Bag Travel Organiser Polyester Pouch Bra Organiser Brown,1299,1286
+129,13,2021-10-20 13:00:00 +0000 +0000,2021-10-20 14:00:00 +0000 +0000,1,1,1197,Home & Kitchen,Wall art,5Frames0213 autumn frame,1999,1979
+130,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,385,Home & Kitchen,Canvas Lunch Bag ,Canvas Thermal Insulated Lunch Bag Turquoise Ice    ,1499,1484
+131,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1236,Home & Kitchen,Wall art,5Frames0259 deer frame,1999,1979
+132,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1139,Apparel,Smart Casual Pants,Curllie Pack of 3 Smart Casual Pants-XL,2199,2177
+133,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1153,Home & Kitchen,Wall art,5Frames0162 mushroom frame,1999,1979
+134,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1313,Apparel,Kurti and lower set,Pick any 1 Pastel Kurta & Bottom set Blue Size-L,1699,1682
+135,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1120,Home Furnishing,Curtain Set with rings,Aurome Door Curtain Set of 2[9x 4Ft] 3D Printed with Polyester Steel Rings,2999,2969
+136,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1135,Health Appliances,BATHROOM SCALE,Dr.Odin Bathroom scale grey,2990,2960
+137,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1162,Kitchen,Container Set,Steelo 40 Pcs Storage Set RED,2999,2969
+138,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,730,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Green,2598,2572
+139,14,2021-10-20 13:20:00 +0000 +0000,2021-10-20 14:20:00 +0000 +0000,1,1,1131,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter -Star & Stripe pattern(Red ,200 GSM)",2999,2969
+140,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,411,Home & Kitchen,Vacuum Cleaner ,Powerful Portable & High Power 12V Vacuum Cleaner for Car and Home,1999,1979
+141,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,488,Home & Kitchen,Wall clock 3D sticker,DIY Wall Clock 3D Sticker Home Office Decor ,1999,1979
+142,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,1219,Home & Kitchen,Wall art,5Frames0235 sunflower frame,1999,1979
+143,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,805,Home & Kitchen,Wooden Foldable Table,Wooden Multipurpose foldable Table for Laptop/Reading/Eating with Drawer,2999,2969
+144,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,311,Electronics & Appliances,DIY Hot Melt Glue Gun,Hot Melt Glue Gun for DIY Craft and Decoration 40w with 8 Glue Stick Free,1299,1286
+145,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,1311,Apparel,Kurti and lower set,Pick any 1 Pastel Kurta & Bottom set Pink Size-XL,1699,1682
+146,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,1178,Home & Kitchen,Wall art,5Frames0192 abstract frame,1999,1979
+147,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,763,Apparel,Blue Lace Saree,Pick Any One Lace Saree  (Blue),2499,2474
+148,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,697,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Brown,2998,2968
+149,15,2021-10-20 13:40:00 +0000 +0000,2021-10-20 14:40:00 +0000 +0000,1,1,748,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Green,2598,2572
+150,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,417,Home & Kitchen,Turbo water spray gun,EZ Jet Cannon 8-in-1 turbo water spray gun   ,1499,1484
+151,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,368,Home & Kitchen,Portable Laptop desk,Foldable Portable Adjustable Multifunction Laptop Study desk with Cup Slot,2499,2474
+152,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,317,Home Furnishing,Anti Skid Mat,"Aurome Anti-Skid Cotton Bath/Door Mat Set of 2(Size-51x80 cm, 43x62 cm)",1499,1484
+153,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,1229,Home & Kitchen,Wall art,5Frames0245 flowers frame,1999,1979
+154,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,409,Home & Kitchen,Broom & Cleaning Gloves,Shopper52 Set of 5 pcs Broom Brush Set with Cleaning Gloves ,1999,1979
+155,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,1143,Home & Kitchen,Wall art,5Frames0152 modern frame,1999,1979
+156,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,1161,Home & Kitchen,Wall art,5Frames0170 buddha frame,1999,1979
+157,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,1217,Home & Kitchen,Wall art,5Frames0233 white flowers frame,1999,1979
+158,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,466,Home & Kitchen,Shoe Rack With Cover,6 Layer Multi-Purpose Storage Rack Cum Shoe Rack With Cover - 6LYRACK    ,2499,2474
+159,16,2021-10-20 14:00:00 +0000 +0000,2021-10-20 15:00:00 +0000 +0000,1,1,398,Home & Kitchen,Wall Clock 3D Sticker,Shopper52 DIY 3DSticker Decor Clock(Area: 45x45cm) - DIYM07-GOLD-S    ,1999,1979
+160,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,1287,Apparel,Women Lace Dress,Leyazo Pack of 2 Lace Dresses Size- XXL,1899,1880
+161,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,1184,Home & Kitchen,Wall art,5Frames0199 city frame,1999,1979
+162,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,4,Apparel,Men's T-Shirt set,Summer Special Combo - Pack of 5 Men's T-shirts Size-S,2000,1980
+163,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,720,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Pink,2598,2572
+164,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,356,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+165,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,711,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Green,2998,2968
+166,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,316,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet + 2 pillow covers-Geometry print,1499,1484
+167,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,365,Home & Kitchen,Portable Laptop desk,Foldable Portable Adjustable Multifunction Laptop Study desk with Cup Slot,2499,2474
+168,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,1203,Home & Kitchen,Wall art,5Frames0219 river frame,1999,1979
+169,17,2021-10-20 14:20:00 +0000 +0000,2021-10-20 15:20:00 +0000 +0000,1,1,392,Home & Kitchen,Multipurpose Backpack,Shopper52 Multipurpose Foldable Lightweight Backpack Grey– TRBAGPACK    ,1499,1484
+170,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,688,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Orange,2998,2968
+171,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,1220,Home & Kitchen,Wall art,5Frames0236 bee on the flowers frame,1999,1979
+172,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,1172,Home & Kitchen,Wall art,5Frames0185 roses frame,1999,1979
+173,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,736,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Brown,2598,2572
+174,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,1180,Home & Kitchen,Wall art,5Frames0194 black and whit frame,1999,1979
+175,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,814,Home & Kitchen,Portable Camping tent,Anti Ultraviolet Outdoor Camping Tent Portable Foldable Tent for 2 person,2999,2969
+176,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,1248,Home & Kitchen,Wall art,5Frames0273 bamboo frame,1999,1979
+177,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,1314,Apparel,Kurti and lower set,Pick any 1 Pastel Kurta & Bottom set Blue Size-XL,1699,1682
+178,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,1147,Home & Kitchen,Wall art,5Frames0156 modern city frame,1999,1979
+179,18,2021-10-20 14:40:00 +0000 +0000,2021-10-20 15:40:00 +0000 +0000,1,1,1019,Electronics & Appliances,Bathroom scale,BATHROOM SCALE    ,2990,2960
+180,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,1255,Home & Kitchen,Wall art,5Frames0280 tree frame,1999,1979
+181,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,367,Home & Kitchen,Portable Laptop desk,Foldable Portable Adjustable Multifunction Laptop Study desk with Cup Slot,2499,2474
+182,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,1274,Home & Kitchen,Wall art,5Frames0302 waterfall frame,1999,1979
+183,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,376,Home & Kitchen,Insulated Lunch Bag,Canvas Protable Thermal Insulated Lunch Bag with Handle (Multi-23)    ,1499,1484
+184,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,306,Apparel,woolen Kurti and Palazzo,Jaasvi Pack of 2 Woolen Kurti with Palazzo Size-M,1499,1484
+185,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,1247,Home & Kitchen,Wall art,5Frames0272 flowers frame,1999,1979
+186,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,1152,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Embroidered Cosy Winter Kurta Rust-Free Size,2999,2969
+187,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,746,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Black,2598,2572
+188,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,362,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+189,19,2021-10-20 15:00:00 +0000 +0000,2021-10-20 16:00:00 +0000 +0000,1,1,778,Home & Kitchen,DIY Glow Wall Clock,DIY Glow in Dark Moon 3D Wall Office Decor 3D (Covering Area:30 * 30cm)  ,1999,1979
+190,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,1144,Apparel,Shawl Set,Royal Shawls Pack of 3 Warm and Stylish Shawls,2100,2079
+191,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,1249,Home & Kitchen,Wall art,5Frames0274 house boat frame,1999,1979
+192,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,767,Apparel,Pink Lace Saree,Pick Any One Lace Saree - Pink,2499,2474
+193,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,326,Home Furnishing,Microfibre Bedsheet,Aurome premium micro fibre double bedsheet with 2 pillow covers-Heart print,1499,1484
+194,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,837,Home & Kitchen,Folding Barbeque Toaster,"Barbeque Charcoal Grill Folding Portable BBQ Tools, Barbeque Grill",1999,1979
+195,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,1151,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Embroidered Cosy Winter Kurta Grey-Free Size,2999,2969
+196,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,346,Home & Kitchen,4 Tier Plastic Shoe Rack,Portable Folding 4 Tier Plastic Shoe Rack Organiser for Home and Office    ,1499,1484
+197,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,1261,Home & Kitchen,Wall art,5Frames0286 fly high frame,1999,1979
+198,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,1216,Home & Kitchen,Wall art,5Frames0232 greenery frame,1999,1979
+199,20,2021-10-20 15:20:00 +0000 +0000,2021-10-20 16:20:00 +0000 +0000,1,1,413,Home Furnishing,Anti Skid Bedside Runner,Aurome Anti-Skid Bedside Cotton Runner-Pebble Print (2x5 feet),1999,1979
+200,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,355,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+201,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,1116,Home Furnishing,Sofa Cushion Cover Set,40 Pc Sofa + Deewan set - Blue,2999,2969
+202,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,430,Home & Kitchen,Shoe Organiser,Shopper52 Stackable Shoe Rack Storage Shoe Cabinet Shoe Organiser,1999,1979
+203,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,1302,Apparel,Versatile Dress Set,Curllie Pack of 3 Versatile Dresses Size-M,1799,1781
+204,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,1146,Apparel,Woolen Elegance kurta,Woolkraft Pick Any 1 Woollen Elegance Kurta Black-Free Size,2999,2969
+205,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,683,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Grey,2998,2968
+206,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,785,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe (Purple, 200 GSM)",2499,2474
+207,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,1195,Home & Kitchen,Wall art,5Frames0211 ship frame,1999,1979
+208,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,297,Electronics & Appliances,Silicone Pastry Set,Silicone Spatula and Pastry Brush Set for Cooking    ,1500,1485
+209,21,2021-10-20 15:40:00 +0000 +0000,2021-10-20 16:40:00 +0000 +0000,1,1,1230,Home & Kitchen,Wall art,5Frames0246 autumn frame,1999,1979
+210,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,341,Electronics & Appliances,School Lunch Bag and Box,Insulated Lunch Bag and Box for Home and Office Use Red,1499,1484
+211,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,681,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Pink,2998,2968
+212,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,319,Home Furnishing,Anti Skid Mat,"Aurome Anti-Skid Cotton Bath/Door Mat Set of 2(Size-51x80 cm, 43x62 cm)",1499,1484
+213,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,722,Apparel,Women Pop Collection Top ,Bloomeri Pretty Pop Collection Size -XL,2997,2967
+214,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,314,Electronics & Appliances,BBQ Skewers,BBQ Stainless Steel Skewers with Wooden Handle Pack of 12,1499,1484
+215,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,1310,Apparel,Kurti and lower set,Pick any 1 Pastel Kurta & Bottom set Pink Size-L,1699,1682
+216,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,1293,Apparel,Woolen Kurta with Bottom,Wool Kraft Pick Any 1 Woolen Kurta With Bottom Set  Carrot Red,1899,1880
+217,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,1192,Home & Kitchen,Wall art,5Frames0208 ship frame,1999,1979
+218,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,433,Home & Kitchen,Earth Design Wall Clock,Shopper52 Luminous Creative Earth Design Wall Clock  ,1999,1979
+219,22,2021-10-20 16:00:00 +0000 +0000,2021-10-20 17:00:00 +0000 +0000,1,1,1151,Apparel,ypographic T-Shirts,Gary Cooper Pack of 5 Typographic T-Shirts Size-S,1500,1485
+220,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,840,Apparel,Boys T-shirt Set,Pack of 5 Boys Tshirts Size 5-6  yrs,1495,1480
+221,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,724,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Grey,2598,2572
+222,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,1227,Home & Kitchen,Wall art,5Frames0243 autumn frame,1999,1979
+223,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,1309,Apparel,Kurti and lower set,Pick any 1 Pastel Kurta & Bottom set Pink Size-M,1699,1682
+224,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,1257,Home & Kitchen,Wall art,5Frames0282 waterfall frame,1999,1979
+225,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,312,Electronics & Appliances,Magnetic Knife Holder,Wall Mount Magnetic Knife Holder,1499,1484
+226,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,1135,Kitchen,Glass Cooktop,Pick Any 1 Safeline Glass Cooktop (ISI Marked) - 2 Burner,2999,2969
+227,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,1127,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter -Star & Stripe (Sky Blue , 200 GSM)",2999,2969
+228,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,306,Electronics & Appliances,Beard Styler Comb,Men Multifunctional Quick Beard Styler Comb for straightner and curler,1999,1979
+229,23,2021-10-20 16:20:00 +0000 +0000,2021-10-20 17:20:00 +0000 +0000,1,1,1301,Apparel,Foil Print Kurtas,Set of 2 Foil Print Kurtas by Janasya-XL,1799,1781
+230,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1250,Home & Kitchen,Wall art,5Frames0275 flowers frame,1999,1979
+231,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1277,Home & Kitchen,Wall art,5Frames0305 sunset frame,1999,1979
+232,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1242,Home & Kitchen,Wall art,5Frames0266 giraffe frame,1999,1979
+233,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,349,Home & Kitchen,Liquid Soap Dispenser,2 in 1 Soap Liquid Dispenser and Sponge With Microfibre Cleaning Gloves,1499,1484
+234,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1151,Apparel,Superhero T-Shirt Set,Free Authority Pack of 3 Superhero TShirts Size-M,2097,2076
+235,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1213,Home & Kitchen,Wall art,5Frames0229 fishes frame,1999,1979
+236,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1241,Home & Kitchen,Wall art,5Frames0265 tower black and white frame,1999,1979
+237,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1165,Home & Kitchen,Wall art,5Frames0174 river frame,1999,1979
+238,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,1244,Home & Kitchen,Wall art,5Frames0268 house boat frame,1999,1979
+239,24,2021-10-20 16:40:00 +0000 +0000,2021-10-20 17:40:00 +0000 +0000,1,1,323,Electronics & Appliances,DIY Wall Clock 3D Sticker,DIY Wall Clock 3D Sticker Decor 3D Wall Clock (Covering Area:45*55cm),1999,1979
+240,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,1205,Home & Kitchen,Wall art,5Frames0221 deer frame,1999,1979
+241,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,749,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Multi,2598,2572
+242,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,763,Home & Kitchen,Bread Toaster Oven,Auto Multi Function Electric 2 Slices Bread Toaster with EU Plug  (White) ,1999,1979
+243,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,484,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Organiser, Pink",1499,1484
+244,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,477,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser  Grey  ,1499,1484
+245,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,304,Apparel,Kurti and Jacket Set,Pick Any 1 Brocade Pink Jacket & Blue Kurta Size-XL,1499,1484
+246,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,786,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe (Dark Grey, 200 GSM)",2499,2474
+247,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,1151,Home & Kitchen,Wall art,5Frames0160 sunset frame,1999,1979
+248,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,423,Home & Kitchen,Wall Clock 3D Sticker,DIY Wall Clock 3D Sticker Home Office Decor  (Covering Area:65*65cm) ,1999,1979
+249,25,2021-10-20 17:00:00 +0000 +0000,2021-10-20 18:00:00 +0000 +0000,1,1,380,Home & Kitchen,Insulated Lunch Bag,Portable Thermal Insulated Lunch Bag with Handle Circle Dot    ,1499,1484
+250,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,702,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Multi,2998,2968
+251,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,389,Home & Kitchen,Portable Cooler Bag,Shopper52 Portable Insulated Lunch Bag(White Color Mix)-LUNCHBAG-WHMX    ,1499,1484
+252,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,690,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Stretchable Two Seater Maroon,2998,2968
+253,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,610,Home & Kitchen,Shopper52 Soap Dispenser,Shopper52 Portable Suction Double Liquid Soap Dispenser - 1901DSPDP    ,1999,1979
+254,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,710,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Multi,2998,2968
+255,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,771,Home Furnishing,Double bed Comforter,"Aurome Micro fiber Double bed Comforter (Scribble print, 120 GSM)",2499,2474
+256,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,1139,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Woollen Embroidered Kurta Green-Free Size,2999,2969
+257,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,1246,Home & Kitchen,Wall art,5Frames0271 house boat frame,1999,1979
+258,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,782,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe (Sky Blue, 200 GSM)",2499,2474
+259,26,2021-10-20 17:20:00 +0000 +0000,2021-10-20 18:20:00 +0000 +0000,1,1,413,Home & Kitchen,"Water Dispenser Pump,Taps",Rechargeable Water Dispenser Pump & water Tap for 20L Water Bottles ,1499,1484
+260,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,1137,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Embroidered Woollen Fantasy Kurta Orange-Free Size,2999,2969
+261,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,712,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Stretchable Two Seater Blue,2998,2968
+262,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,434,Home & Kitchen,Slicer Cutter Peeler,Shopper52 Multipurpose Grater Slicer Cutter Peeler for Fruits Vegetables  ,1999,1979
+263,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,1288,Apparel,Wool Kurta & Palazzo Set,Wool Kraft Pick Any 1 Woolen Kurta With Palazzo Set Maroon Size-L,1899,1880
+264,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,1281,Home & Kitchen,Wall art,5Frames0313 forest frame,1999,1979
+265,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,412,Home & Kitchen,Electric food Warmer Box,Multi Function Lunch Dabba Electric food Warmer Box Tiffin    ,1999,1979
+266,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,1289,Apparel,Woolen kurta Set,Jaasvi Pack of 3 Woolen Kurtas -M,1899,1880
+267,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,780,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star (Coffee and Tan, 200 GSM)",2499,2474
+268,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,754,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Blue,2598,2572
+269,27,2021-10-20 17:40:00 +0000 +0000,2021-10-20 18:40:00 +0000 +0000,1,1,1145,Apparel,Women's Sweatshirt,Gary Cooper Pack Of 3 Women's Fashion Sweatshirts-XL,2100,2079
+270,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,312,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet + 2 pillow covers floral print,1499,1484
+271,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,1148,Apparel,Printed T-Shirt set,GARY COOPER - Pack of 5 Message Print T-shirts Size- XL,1500,1485
+272,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,742,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Black,2598,2572
+273,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,321,Home Furnishing,Anti Skid Mat,"Aurome Anti-Skid Cotton Bath/Door Mat Set of 2(Size-51x80 cm, 43x62 cm)",1499,1484
+274,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,1161,Kitchen,Container Set,Steelo 40 Pcs Storage Set Purple,2999,2969
+275,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,704,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & PolyesterStretchable Two Seater Blue,2998,2968
+276,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,1245,Home & Kitchen,Wall art,5Frames0270 bamboo frame,1999,1979
+277,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,323,Home Furnishing,Anti Skid Mat,"Aurome Anti-Skid Cotton Bath/Door Mat Set of 2(Size-51x80 cm, 43x62 cm)",1499,1484
+278,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,322,Home Furnishing,Anti Skid Mat,"Aurome Anti-Skid Cotton Bath/Door Mat Set of 2(Size-51x80 cm, 43x62 cm)",1499,1484
+279,28,2021-10-20 18:00:00 +0000 +0000,2021-10-20 19:00:00 +0000 +0000,1,1,299,Apparel,Kurti and Palazzo Set,Curllie Swarnashree Collection Pick Any 1 Kurta & Palazzo Set Pink Size-S,1499,1484
+280,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,1142,Home Furnishing,Curtain Set with rings,Aurome Window Curtain Set of 2[5x 4Ft] 3D Printed + Polyester Steel Rings,2199,2177
+281,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,1256,Home & Kitchen,Wall art,5Frames0281 tree frame,1999,1979
+282,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,436,Home & Kitchen,"Mop,Broom & Dustpan",Shopper52 Fully Automatic Hand Push Sweeper Mop Broom Dustpan Combination ,1999,1979
+283,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,396,Home & Kitchen,Wall Clock 3DSticker Home,Shopper52 DIY3D Sticker Decor Wall Clock (Area: 35x35cm)- DIYM03    ,1999,1979
+284,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,1146,Apparel,Women's Sweatshirt,Gary Cooper Pack Of 3 Women's Fashion Sweatshirts- XXL,2100,2079
+285,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,1198,Home & Kitchen,Wall art,5Frames0214 ship frame,1999,1979
+286,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,406,Home & Kitchen,Electric Sewing Machine,Shopper52 Portable Electric Mini Handheld Sewing Machine ,1499,1484
+287,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,335,Electronics & Appliances,41 pcs Screwdriver Set,Multipurpose Magnetic Screwdriver Socket Set and Bit ToolKit -41 Pieces,1999,1979
+288,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,1280,Home & Kitchen,Wall art,5Frames0310 peacock frame,1999,1979
+289,29,2021-10-20 18:20:00 +0000 +0000,2021-10-20 19:20:00 +0000 +0000,1,1,1259,Home & Kitchen,Wall art,5Frames0284 bird on the tree frame,1999,1979
+290,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,322,Electronics & Appliances,15pcs Screwdriver Bit Set,"15pcs Magnetic Toolkit for Home, Office, Car, Bike Screwdriver Bit Set",1999,1979
+291,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,768,Electronics & Appliances,Body Massager,WALDON BODY MASSAGER(MN:PL-604B)    ,2999,2969
+292,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,1135,Apparel,Kurta Set,Jaasvi Pretty Party Collection (Pack of 3 Kurtas)?Size-S,2397,2373
+293,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,1199,Home & Kitchen,Wall art,5Frames0215 flower frame,1999,1979
+294,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,1160,Kitchen,Handi Set with Lid Bowl,SNB Pick Any 1 - 20 Pcs Handi & Lid Bowl Set Blue,2999,2969
+295,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,1191,Home & Kitchen,Wall art,5Frames0207 ship frame,1999,1979
+296,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,1263,Home & Kitchen,Wall art,5Frames0288 birds sitting on the tree frame,1999,1979
+297,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,1209,Home & Kitchen,Wall art,5Frames0225 waterfall frame,1999,1979
+298,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,351,Home & Kitchen,9 in 1 Vegetable Cutter,9 in 1 Vegetable Cutter with Drain Wet Basket Kitchen Slicer,1999,1979
+299,30,2021-10-20 18:40:00 +0000 +0000,2021-10-20 19:40:00 +0000 +0000,1,1,1240,Home & Kitchen,Wall art,5Frames0264 leaves frame,1999,1979
+300,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,1146,Apparel,3 Dress Set,Curllie All Set to Dazzle - Pack of 3 Dresses-XL,1599,1583
+301,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,360,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+302,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,1156,Apparel,Fancy Woolen Shrug,Woolkraft Pick Any 1 Fancy Woolen Shrug White-Free Size,2999,2969
+303,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,1307,Apparel,Kurti and lower set,Pick any 1 Modern Kurta Yellow & Red Bottom set Size-XL,1799,1781
+304,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,709,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Green,2998,2968
+305,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,469,Home & Kitchen,Travel Storage Bag,Shopper52 6pcs Packing Cubes Portable Travel Storage Organiser Black ,1499,1484
+306,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,1085,Accessories,Hair Trimer- Waldon,HAIR TRIMER (BRAND :WALDON)    ,1699,1682
+307,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,784,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe (Maroon, 200 GSM)",2499,2474
+308,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,1125,Home Furnishing,Comforter Bedsheet Set,Aurome microfibre comforter + double bedsheet & 2 pillow covers-Circular,2999,2969
+309,31,2021-10-20 19:00:00 +0000 +0000,2021-10-20 20:00:00 +0000 +0000,1,1,1168,Home & Kitchen,Wall art,5Frames0179 city frame,1999,1979
+310,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,481,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Organiser ,Water Resistant Blue   ",1499,1484
+311,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,852,Home Furnishing,Queen Size Bedsheet Set,Microfiber (90 GSM) Queen Size Bedsheet + 2 Pillow Covers-Geomatric Maroon,1299,1286
+312,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,378,Home & Kitchen,Insulated Lunch Bag,Canvas Protable Thermal Insulated Lunch Bag with Handle (Multi-25)    ,1499,1484
+313,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,310,Electronics & Appliances,28 Pieces Screwdriver Set,Multipurpose 28 Pieces Screwdriver Bit Set with Solid Plastic Slotted Case,1499,1484
+314,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,1273,Home & Kitchen,Wall art,5Frames0301 peacock frame,1999,1979
+315,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,374,Home & Kitchen,Insulated Lunch Bag,Canvas Protable Thermal Insulated Lunch Bag for Travel (Multi-21)    ,1499,1484
+316,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,848,Home Furnishing,Microfibre Bedsheet,Valito Microfibre 120 TC Bedsheet (Double_Pink),1399,1385
+317,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,837,Footwear,Casual Mens Canvas Shoes,Desi motifs mens canvas shoes (pack of 3) size-7,1497,1482
+318,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,1297,Apparel,Pink Saree,Agnisie - Pick Any 1 Glorious Collection  Pink,1800,1782
+319,32,2021-10-20 19:20:00 +0000 +0000,2021-10-20 20:20:00 +0000 +0000,1,1,391,Home & Kitchen,Multipurpose Backpack,Shopper52 Multipurpose Lightweight Waterproof Backpack Green– TRBAGPACK    ,1499,1484
+320,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,627,Home & Kitchen,Camping Bag,shopper52Travel Multicolour Single Thick Carry Bed Camping Bag    ,2999,2969
+321,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,309,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet with 2 pillow covers-motif print,1499,1484
+322,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,485,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6-Piece Packing Cubes Set Organizer Pouch Pink,1499,1484
+323,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,764,Apparel,Black Saree,Pick Any One Half and Half Saree (Black),2499,2474
+324,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,1265,Home & Kitchen,Wall art,5Frames0290 leaf in the river frame,1999,1979
+325,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,1264,Home & Kitchen,Wall art,5Frames0289 parrot frame,1999,1979
+326,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,314,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet + 2 pillow covers-floral print,1499,1484
+327,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,1152,Home & Kitchen,Wall art,5Frames0161 spring frame,1999,1979
+328,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,836,Footwear,Casual Mens Canvas Shoes,Desi motifs mens canvas shoes (pack of 3) size-6,1497,1482
+329,33,2021-10-20 19:40:00 +0000 +0000,2021-10-20 20:40:00 +0000 +0000,1,1,475,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser Green ,1499,1484
+330,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,1148,Apparel,Men's Sweatshirt,Gary Cooper Pack Of 3 Men's Sweatshirts-M,2100,2079
+331,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,777,Home & Kitchen,Fruit Vegetable Strainer,Set of 2 Fruit Vegetable Basket Strainer with 7 Pc Kitchen Knife Set - ,1499,1484
+332,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,478,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Storage Organiser ,Water Resistant  ",1499,1484
+333,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,437,Home & Kitchen,"Steaming, Heating  Device",2 In 1 Multifuctional Steaming Device Frying Boiling Roasting Heating    ,1999,1979
+334,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,472,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser Brown ,1499,1484
+335,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,299,Electronics & Appliances,Measuring Cup & Spoon Set,Shopper52 8 Piece Measuring Cup & Spoon Set - Multi Purpose Kitchen Tool,1499,1484
+336,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,1159,Home & Kitchen,Wall art,5Frames0168 horse frame,1999,1979
+337,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,705,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Yellow,2998,2968
+338,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,820,Accessories,Waldon Hair Clipper,Waldon Professional Hair Clipper WT,2499,2474
+339,34,2021-10-20 20:00:00 +0000 +0000,2021-10-20 21:00:00 +0000 +0000,1,1,394,Home & Kitchen,Multipurpose Backpack,Shopper52 Multipurpose Travel Backpack Bag Sport Pink– TRBAGPACK    ,1499,1484
+340,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,1150,Apparel,Men's Solid Polo T-Shirts,Gary Cooper Pack of 4 Men's Solid Polo T-Shirts Size-L,1500,1485
+341,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,1231,Home & Kitchen,Wall art,5Frames0247 forest frame,1999,1979
+342,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,1142,Apparel,Kurta and Stoll Set,Jaasvi Pack of 2 Woolen Kurtas & 2 Stolls-L,1599,1583
+343,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,767,Electronics & Appliances,Body Massager,HANDHELD BODY MASSAGER (LY-662B)    ,2999,2969
+344,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,623,Home & Kitchen,Screwdriver Kit Magnetic,Shopper 52 in 1 Screwdriver Magnetic Toolkit Precision Set,1499,1484
+345,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,1283,Apparel,Casual Denims for Women,Uber Urban Set of 2 Casual Denims for Women Size-32,1998,1978
+346,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,1226,Home & Kitchen,Wall art,5Frames0242 autumn frame,1999,1979
+347,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,770,Home Furnishing,Double bed Comforter,"Aurome Micro fiber Double bed Comforter (Diamond shape, 120 GSM)",2499,2474
+348,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,473,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser Brown   ,1499,1484
+349,35,2021-10-20 20:20:00 +0000 +0000,2021-10-20 21:20:00 +0000 +0000,1,1,1134,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter  (Red and Pink ,200 GSM)",2999,2969
+350,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,1118,Home Furnishing,Bedsheet Set,Bed Cover with Matching Bedsheet - Geometric,2999,2969
+351,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,821,Home & Kitchen,Kneading Massager,Neck Back Shoulder Heat Pillow Deep Kneading Massager,1999,1979
+352,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,476,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser Green ,1499,1484
+353,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,1298,Apparel,Sweater Set,Jaasvi Pack of 3 Sweaters-L,1800,1782
+354,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,372,Home & Kitchen,Insulated Lunch Bag,"Insulated Lunch Bag Sturdy Box Tote Picnic Carry Case For Men, Women, Kid",1499,1484
+355,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,412,Home Furnishing,Anti Skid Bedside Runner,Aurome Anti-Skid Bedside Cotton Runner -Polka Print(2x5 feet),1999,1979
+356,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,689,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Multi,2998,2968
+357,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,1267,Home & Kitchen,Wall art,5Frames0292 snow in the hand frame,1999,1979
+358,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,416,Home & Kitchen,Electric Juicer Mixer,Plastic Mini USB Electric Juicer Blender Mixer (380 ml) - JUICE6    ,1999,1979
+359,36,2021-10-20 20:40:00 +0000 +0000,2021-10-20 21:40:00 +0000 +0000,1,1,1175,Home & Kitchen,Wall art,5Frames0188 Krishna frame,1999,1979
+360,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,301,Electronics & Appliances,Measuring Cup & Spoon Set,8 Piece Measuring Cup & Spoon Set for Baking with Spatula & Brush,1499,1484
+361,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,1115,Home Furnishing,Sofa Cushion Cover Set,40 Pc Sofa + Deewan set - Brown,2999,2969
+362,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,379,Home & Kitchen,Insulated Lunch Bag,Canvas Portable Thermal Insulated Lunch Bag Blue Circle (Multi-11)    ,1499,1484
+363,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,724,Footwear,Women slip on Sandal,Pack of 3 Women's fashion slip on sandals SIZE - 4,2997,2967
+364,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,1284,Footwear,Casual slip on Shoes,2 Printed comfort slip on shoes SIZE - 3,1998,1978
+365,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,707,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Black,2998,2968
+366,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,1223,Home & Kitchen,Wall art,5Frames0239 leaves frame,1999,1979
+367,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,1210,Home & Kitchen,Wall art,5Frames0226 mountain frame,1999,1979
+368,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,1158,Home & Kitchen,Wall art,5Frames0167 leaf frame,1999,1979
+369,37,2021-10-20 21:00:00 +0000 +0000,2021-10-20 22:00:00 +0000 +0000,1,1,347,Home & Kitchen,Screwdriver bit set,25pcs Multipurpose Screwdriver Socket Bit Set ,1499,1484
+370,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,1120,Health Appliances,WALDON BODY MASSAGER,WALDON HANDHELD BODY MASSAGER,2999,2969
+371,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,694,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super StretchableTwo Seater Multi,2998,2968
+372,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,1167,Home & Kitchen,Wall art,5Frames0176 white flowers frame,1999,1979
+373,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,5,Apparel,Kurti Dress,Pick any 1 Festive Ready Kurta dress Blue Size-XL,2000,1980
+374,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,1144,Apparel,Woolen Elegance kurta,Woolkraft Pick Any 1 Woollen Elegance Kurta Navy Blue-Free Size,2999,2969
+375,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,1119,Health Appliances,HANDHELD BODY MASSAGER,WALDON HANDHELD BODY MASSAGER,2999,2969
+376,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,1158,Kitchen,Serving Handi Set,SNB Pick Any 1 - 20 Pcs Cook & Serve Handi Set Blue,2999,2969
+377,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,1185,Home & Kitchen,Wall art,5Frames0200 river frame,1999,1979
+378,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,760,Home Furnishing,Embroidered Bedsheet,Royal Roots- Pick any 1 embroidered Bedsheet-Elephant,2500,2475
+379,38,2021-10-20 21:20:00 +0000 +0000,2021-10-20 22:20:00 +0000 +0000,1,1,726,Footwear,Women's ethnic wear pack,Pack of 3 Women's ethnic collection SIZE -3,2997,2967
+380,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,1190,Home & Kitchen,Wall art,5Frames0206 ship frame,1999,1979
+381,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,307,Electronics & Appliances,DIY Hot Melt Glue Gun,Hot Melt Glue Gun for DIY Craft and Decoration 40w with 6 Glue Stick Free,1299,1286
+382,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,414,Home Furnishing,Anti Skid Bedside Runner,Aurome Anti-Skid Bedside Cotton Runner-Hexagon Print (2x5 feet),1999,1979
+383,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,1253,Home & Kitchen,Wall art,5Frames0278 flower frame,1999,1979
+384,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,620,Home & Kitchen,StainlessKnife Knives Set,StainlessKnife Knives Set with and Chopping Board) - CMHKNHNG3in1    ,1999,1979
+385,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,409,Home Furnishing,Bedsheet Set,Set of 2 double bed warm bedsheet with 4 pillow covers,1999,1979
+386,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,1207,Home & Kitchen,Wall art,5Frames0223 mountain frame,1999,1979
+387,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,1146,Home & Kitchen,Wall art,5Frames0155 Sea frame,1999,1979
+388,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,453,Home & Kitchen,Triple Paper Dispenser,Triple Paper Dispenser For Aluminium Foil And Kitchen Roll   ,1999,1979
+389,39,2021-10-20 21:40:00 +0000 +0000,2021-10-20 22:40:00 +0000 +0000,1,1,1218,Home & Kitchen,Wall art,5Frames0234 sunset frame,1999,1979
+390,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,302,Apparel,Kurti and Palazzo Set,Curllie Swarnashree Collection Kurta & Palazzo Set Navy Blue Size-L,1499,1484
+391,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,750,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Green,2598,2572
+392,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,1225,Home & Kitchen,Wall art,5Frames0241 autumn frame,1999,1979
+393,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,993,Home & Kitchen,Electric Barbecue Grill,Electric Barbecue Grill Barbeque Grill - BBQ1    ,2999,2969
+394,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,410,Home & Kitchen,Wall Clock 3D Sticker,"DIY Wall Clock 3D Sticker Home Office Decor (Covering Area:55*50cm)
+ 
+  ",1999,1979
+395,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,298,Electronics & Appliances,Magnetic Tool Kit," Multi Purpose 31 Pcs Pieces Metal Screwdriver Set and Magnetic Tool Kit ",2999,2969
+396,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,442,Electronics & Appliances,Trimmer Shaver Set,Shopper52 Edwin Clark Rechargeable Cordless Men's Trimmer Shaver Set ,1999,1979
+397,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,698,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater  Blue,2998,2968
+398,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,3,Jewellery,Necklace Set,Touchstone Soaked in Traditions - (4 Necklace + Free 1 Pendant),2000,1980
+399,40,2021-10-20 22:00:00 +0000 +0000,2021-10-20 23:00:00 +0000 +0000,1,1,1304,Apparel,Kurti and lower set,Pick any 1 Modern Kurta Green & Red Bottom set Size-L,1799,1781
+400,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,383,Home & Kitchen,Portable Lunch Bag ,Shopper52 Portable Insulated Lunch Bag (Peech Color Mix)-LUNCHBAG-PCMX    ,1499,1484
+401,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,850,Home Furnishing,Microfibre Bedsheet,Microfiber Feather Touch (120 GSM) Queen Size Bed Sheet + 2 Pillow Covers,1399,1385
+402,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,1278,Home & Kitchen,Wall art,5Frames0306 abstract frame,1999,1979
+403,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,474,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser Blue  ,1499,1484
+404,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,1145,Apparel,Woolen Elegance kurta,Woolkraft Pick Any 1 Woollen Elegance Kurta Grey-Free Size,2999,2969
+405,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,835,Home & Kitchen,3 in 1 Chopping Board set,"Shopper52 3 in 1 Cutting Chopping Board, Washing Bowl, Drain Basket ",1499,1484
+406,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,307,Apparel,woolen Kurti and Palazzo,Jaasvi Pack of 2 Woolen Kurti with Palazzo Size-L,1499,1484
+407,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,718,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Pink,2998,2968
+408,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,685,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchabler Two Seater Grey,2998,2968
+409,41,2021-10-20 22:20:00 +0000 +0000,2021-10-20 23:20:00 +0000 +0000,1,1,410,Kitchen,Bottle Set,Pick any 1 Triton 6 Bottle with 1 Diffuser from Steelo Grey,1999,1979
+410,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,723,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Beige,2598,2572
+411,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,1170,Home & Kitchen,Wall art,5Frames0183 forest frame,1999,1979
+412,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,1275,Home & Kitchen,Wall art,5Frames0303 pigeon frame,1999,1979
+413,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,1154,Apparel,Fancy Woolen Shrug,Woolkraft Pick Any 1 Fancy Woolen Shrug Beige-Free Size,2999,2969
+414,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,364,Home & Kitchen,Portable Laptop desk,Foldable Portable Adjustable Multifunction Laptop Study desk with Cup Slot,2499,2474
+415,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,1147,Apparel,Printed T-Shirt set,GARY COOPER - Pack of 5 Message Print T-shirts Size- S,1500,1485
+416,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,788,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Strip (Red, 200 GSM)",2499,2474
+417,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,456,Home & Kitchen,2pc set Washing Strainer,2 pcs Foldable Silicone Washing Strainer Drainer with Handle Kitchen Tool,1200,1188
+418,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,1312,Apparel,Kurti and lower set,Pick any 1 Pastel Kurta & Bottom set Blue Size-M,1699,1682
+419,42,2021-10-20 22:40:00 +0000 +0000,2021-10-20 23:40:00 +0000 +0000,1,1,766,Apparel,Blue Lace Saree,Pick Any One Lace Saree  -Blue,2499,2474
+420,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,846,Footwear,White Sports Shoes,Athleisure sports shoe - White  Size- 10,1399,1385
+421,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,388,Home & Kitchen,Insulated Lunch Bag,Shopper52 Canvas Protable Thermal Insulated Lunch Bag(Multi-10)    ,1499,1484
+422,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,1208,Home & Kitchen,Wall art,5Frames0224 cat frame,1999,1979
+423,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,1296,Apparel,Embroidered Silk Saree,Agnisie Pick Any 1 Embroidered Silk Saree  Red,1800,1782
+424,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,1294,Apparel,Trendy Kurta with Bottom,Wool Kraft Pick Any 1 Trendy Woolen Kurta With Palazzo Set Grey,1899,1880
+425,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,1126,Home Furnishing,Reversible Blanket,"Aurome Reversible Double bed Comforter (Grey and brown , 200 GSM)",2999,2969
+426,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,787,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe (B/W, 200 GSM)",2499,2474
+427,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,1316,Apparel,Jacket and Sweatshirt Set,Gary Cooper Pack of 2 Men's Camo Jacket & Sweatshirt Size-XL,1699,1682
+428,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,462,Home & Kitchen,Bucket Set  Mop & Refill,"shopper52 Plastic Spin Bucket Set with Wheels,360 Degree Mop and 2 Refill ",1999,1979
+429,43,2021-10-20 23:00:00 +0000 +0000,2021-10-21 00:00:00 +0000 +0000,1,1,350,Home & Kitchen,300 psi Tyre Air Pump,300 psi Tyre Air Pump for Car & Bike Air Compressor For Car And Bike Tyre,1999,1979
+430,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,329,Electronics & Appliances,Coffee Tea Mug,Camera Lens Shape Cup Coffee Tea Mug Stainless Steel - EF24-105MM    ,1499,1484
+431,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,373,Home & Kitchen,Insulated Lunch Bag,Canvas Portable Thermal Insulated Lunch Bag with Handle (Multi-19)    ,1499,1484
+432,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,1149,Home & Kitchen,Wall art,5Frames0158 forest frame,1999,1979
+433,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,1134,Apparel,Kurta Set,Rangeeli Pretty Party Collection (Pack of 3 Kurtas)?Size- XXL,2397,2373
+434,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,340,Electronics & Appliances,School Lunch Bag and Box,Insulated Lunch Bag and Box for Home and Office Use Pink,1499,1484
+435,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,701,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Purple,2998,2968
+436,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,621,Home & Kitchen,Portable Shoe Rack With,Portable Shoe Rack With Wardrobe Cover    ,1999,1979
+437,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,1177,Home & Kitchen,Wall art,5Frames0190 mountain frame,1999,1979
+438,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,772,Home Furnishing,Double bed Comforter,"Aurome Micro fiber Double bed Comforter ( Geometric shape, 120 GSM)",2499,2474
+439,44,2021-10-20 23:20:00 +0000 +0000,2021-10-21 00:20:00 +0000 +0000,1,1,1149,Apparel,Women's Trendy Sweatshirt,Gary Cooper Pack Of 3 Womens Trendy Sweatshirt Sweatshirts-XL,2100,2079
+440,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,310,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet with 2 pillow covers-motif print,1499,1484
+441,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,1157,Apparel,Fancy Woolen Shrug,Woolkraft Pick Any 1 Fancy Woolen Shrug Black-Free Size,2999,2969
+442,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,818,Home & Kitchen,Floor Cleaning Mop set,Spin Bucket Floor Cleaning Mop with Broom Set and Cleaning Gloves,1999,1979
+443,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,1201,Home & Kitchen,Wall art,5Frames0217 waterfall frame,1999,1979
+444,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,719,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Brown,2998,2968
+445,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,739,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Check,2598,2572
+446,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,1252,Home & Kitchen,Wall art,5Frames0277 flower frame,1999,1979
+447,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,1303,Apparel,Versatile Dress Set,Curllie Pack of 3 Versatile Dresses Size-L,1799,1781
+448,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,770,Home & Kitchen,3D wall clock Sticker,DIY Wall Clock 3D Sticker Home Office Decor 3D ,1999,1979
+449,45,2021-10-20 23:40:00 +0000 +0000,2021-10-21 00:40:00 +0000 +0000,1,1,313,Home Furnishing,Bedsheet Set,Aurome premium micro fibre double bedsheet + 2 covers-blue floral print,1499,1484
+450,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,381,Home & Kitchen,Portable Lunch Bag ,Shopper52 Portable Insulated Lunch Bag (Green Color Mix)-LUNCHBAG-GRMX    ,1499,1484
+451,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,1173,Home & Kitchen,Wall art,5Frames0186 buddha frame,1999,1979
+452,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,1271,Home & Kitchen,Wall art,5Frames0298 peacock frame,1999,1979
+453,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,1300,Apparel,Foil Print Kurtas,Set of 2 Foil Print Kurtas by Janasya-M,1799,1781
+454,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,726,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Beige,2598,2572
+455,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,1266,Home & Kitchen,Wall art,5Frames0291 colorful birds frame,1999,1979
+456,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,733,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Multi,2598,2572
+457,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,1315,Apparel,Jacket and Sweatshirt Set,Gary Cooper Pack of 2 Men's Camo Jacket & Sweatshirt Size-L,1699,1682
+458,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,1206,Home & Kitchen,Wall art,5Frames0222 waterfall frame,1999,1979
+459,46,2021-10-21 09:00:00 +0000 +0000,2021-10-21 10:00:00 +0000 +0000,1,1,1140,Apparel,Kurta and Stoll Set,Jaasvi Pack of 2 Woolen Kurtas & 2 Stolls-S,1599,1583
+460,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,769,Home & Kitchen,3D wall clock Sticker,DIY Large Wall Clock 3D Sticker Home Office Decor ,1999,1979
+461,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,1235,Home & Kitchen,Wall art,5Frames0258 autumn frame,1999,1979
+462,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,446,Home & Kitchen,Multifunction Wrench Too,Shopper52  48 in 1 Multifunction wrench tool with Rotating Head,1999,1979
+463,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,1269,Home & Kitchen,Wall art,5Frames0295 colorful birds frame,1999,1979
+464,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,1119,Home Furnishing,Curtain Set with rings,Aurome Door Curtain Set of 2[9x 4Ft] 3D Printed with Polyester Steel Rings,2999,2969
+465,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,841,Apparel,Trend-Setting T-Shirts,Gary Cooper Pack of (3+1) Trend-Setting T-Shirts Size-S,1400,1386
+466,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,300,Electronics & Appliances,Toothpaste Dispenser,Automatic Toothpaste Dispenser With Wall Mounted Toothbrush Holder    ,1499,1484
+467,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,386,Home & Kitchen,Canvas Protable Lunch Bag,Canvas Protable Thermal Insulated Lunch Bag with Handle,1499,1484
+468,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,1186,Home & Kitchen,Wall art,5Frames0201 decorative bridge frame,1999,1979
+469,47,2021-10-21 09:20:00 +0000 +0000,2021-10-21 10:20:00 +0000 +0000,1,1,1111,Home Furnishing,Home Décor Set,Frame your home with 2 door curtain + 5 cushion covers + 5 door Mats - Rust,2999,2969
+470,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,358,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+471,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,428,Home & Kitchen,Travel Shoe Storage,Shopper52 Multi-Purpose Travel  Footwear Organizer(2 Layer Bag)Navy Blue  ,1499,1484
+472,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,686,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater White,2998,2968
+473,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,439,Home & Kitchen,Fast Electric Kettle,Shopper52 2Ltr Fast Electric Kettle Boiling Water Energy Saving BXY-1516  ,1999,1979
+474,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,1286,Footwear,Casual slip on Shoes,2 Printed comfort slip on shoes SIZE - 7,1998,1978
+475,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,1123,Home Furnishing,Comforter Bedsheet Set,Aurome microfibre comforter + double bedsheet & 2 pillow covers-Geometric,2999,2969
+476,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,298,Kitchen,Slush and Gola Maker,Crystal Gola & Slush   maker,1499,1484
+477,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,1163,Kitchen,Pressure Cooker Combo,Rosiya 1.5+2+3+5 Lit. Pressure Cooker Set with 2 Common Lids,2999,2969
+478,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,844,Footwear,Grey Sports Shoes,Athleisure sports shoe - Grey  Size- 10,1399,1385
+479,48,2021-10-21 09:40:00 +0000 +0000,2021-10-21 10:40:00 +0000 +0000,1,1,731,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Black,2598,2572
+480,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,723,Footwear,Women slip on Sandal,Pack of 3 Women's fashion slip on sandals SIZE - 3,2997,2967
+481,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,1292,Apparel,Woolen Kurta with Bottom,Wool Kraft Pick Any 1 Woolen Kurta With Bottom Set  Blue,1899,1880
+482,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,301,Apparel,Kurti and Palazzo Set,Curllie Swarnashree Collection Kurta & Palazzo Set Navy Blue Size-S,1499,1484
+483,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,756,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Peach,2598,2572
+484,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,1237,Home & Kitchen,Wall art,5Frames0260 sunset frame,1999,1979
+485,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,463,Home & Kitchen," Slicer, Food Processor","Shopper52 USB Electric Cutter Chopper  Slicer, Food Processor (250 ml) ",1499,1484
+486,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,783,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe (Choklate, 200 GSM)",2499,2474
+487,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,700,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester  Stretchable Two Seater Check,2998,2968
+488,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,776,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star & Stripe (Grey, 200 GSM)",2499,2474
+489,49,2021-10-21 10:00:00 +0000 +0000,2021-10-21 11:00:00 +0000 +0000,1,1,1254,Home & Kitchen,Wall art,5Frames0279 flower frame,1999,1979
+490,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,363,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+491,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,715,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Blue,2998,2968
+492,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,1251,Home & Kitchen,Wall art,5Frames0276 flowers frame,1999,1979
+493,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,411,Home Furnishing,Anti Skid Bedside Runner,Aurome Anti-Skid Bedside Cotton Runner-Geometric Print (2x5 feet),1999,1979
+494,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,1132,Jewellery,Pearl Necklace,Pearl Necklace Set by  Jpearls,2400,2376
+495,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,1112,Home Furnishing,Home Décor Set,Frame your home with 2 door curtain + 5 cushion covers + 5 door Mats - Red,2999,2969
+496,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,1270,Home & Kitchen,Wall art,5Frames0296 colorful waterfall frame,1999,1979
+497,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,842,Footwear,Blue Sports Shoes,Athleisure sports shoe - Blue   Size- 7,1399,1385
+498,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,747,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Black,2598,2572
+499,50,2021-10-21 10:20:00 +0000 +0000,2021-10-21 11:20:00 +0000 +0000,1,1,470,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6-Piece Packing Cubes Set with Laundry Travel Pouch (Black)    ,1499,1484
+500,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,1181,Home & Kitchen,Wall art,5Frames0196 sun shine frame,1999,1979
+501,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,727,Footwear,Women's ethnic wear pack,Pack of 3 Women's ethnic collection SIZE -4,2997,2967
+502,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,751,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Blue,2598,2572
+503,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,1176,Home & Kitchen,Wall art,5Frames0189 droplet frame,1999,1979
+504,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,743,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Blue,2598,2572
+505,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,1183,Home & Kitchen,Wall art,5Frames0198 bridge frame,1999,1979
+506,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,429,Home & Kitchen,"Knife Set, Chopping Board",Stainless Steel Kitchen Knife Set with Vegetable Cutting Chopping Board ,1999,1979
+507,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,775,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter (Dark & Light Purple, 200 GSM)",2499,2474
+508,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,753,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Brown,2598,2572
+509,51,2021-10-21 10:40:00 +0000 +0000,2021-10-21 11:40:00 +0000 +0000,1,1,1308,Apparel,Kurti and Palazzo Set,Pick any Floral Embroidered Kurta Blue & Off White Palazzo set Size-L,1799,1781
+510,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,1228,Home & Kitchen,Wall art,5Frames0244 leaves frame,1999,1979
+511,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,1129,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter -Star (Blue and Sky Blue , 200 GSM)",2999,2969
+512,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,1188,Home & Kitchen,Wall art,5Frames0204 aeroplane frame,1999,1979
+513,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,1196,Home & Kitchen,Wall art,5Frames0212 ship frame,1999,1979
+514,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,693,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Purple,2998,2968
+515,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,622,Home & Kitchen,shoe Rack Stand Organiser,Standard Double Dustproof with Cover Shoe Rack Stand Organiser Cabinet    ,2999,2969
+516,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,714,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric  Two Seater Two Seater Brown,2998,2968
+517,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,1155,Apparel,Fancy Woolen Shrug,Woolkraft Pick Any 1 Fancy Woolen Shrug Red-Free Size,2999,2969
+518,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,737,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Blue,2598,2572
+519,52,2021-10-21 11:00:00 +0000 +0000,2021-10-21 12:00:00 +0000 +0000,1,1,317,Electronics & Appliances,Anti Vibration Pads,"Anti Vibration Pads for Fridge, Washing Machine, Cooler with Suction Cup",1499,1484
+520,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,345,Home & Kitchen,Electric Egg Boiler,Portable Electric 7 Egg Boiler Egg Poacher Egg Cooker - EGGCOOKER    ,1999,1979
+521,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,435,Home & Kitchen,Power Drill Adapter Tool,Gator Grip ETC-200MO Universal Socket Wrench Power Drill Adapter Tool    ,1999,1979
+522,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,1157,Home & Kitchen,Wall art,5Frames0166 orchid flower frame,1999,1979
+523,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,1142,Home & Kitchen,Wall art,5Frames0151 city frame,1999,1979
+524,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,729,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Maroon,2598,2572
+525,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,1156,Home & Kitchen,Wall art,5Frames0165 sunflower frame,1999,1979
+526,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,845,Footwear,White Sports Shoes,Athleisure sports shoe  - White  Size- 9,1399,1385
+527,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,387,Home & Kitchen,Canvas Protable Lunch Bag,Canvas Protable Thermal Insulated Lunch Bag with Handle,1499,1484
+528,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,1117,Home Furnishing,Polar Fleece Blanket,Pack of 5 Double Polar Fleece Blanket,2999,2969
+529,53,2021-10-21 11:20:00 +0000 +0000,2021-10-21 12:20:00 +0000 +0000,1,1,682,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Blue,2998,2968
+530,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,1113,Home Furnishing,Floral Blanket ,Warm n Cozy Pick any 1 Reversible Heavy Printed Blanket : Floral,2999,2969
+531,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,765,Apparel,Black Lace Saree,Pick Any One Lace Saree - Black,2499,2474
+532,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,1290,Apparel,Woolen kurta Set,Jaasvi Pack of 3 Woolen Kurtas -L,1899,1880
+533,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,1140,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Embroidered Woollen Elegance Kurta Grey-Free Size,2999,2969
+534,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,431,Home & Kitchen,Wall Clock 3D Sticker,DIY Wall Clock 3D Sticker Home Office Decor Wall Clock (Black-Gold)  ,1999,1979
+535,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,699,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Stretchable Two Seater Brown,2998,2968
+536,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,720,Apparel,Stylish Cotton Kurta,Aadiya Pack of 3 Stylish Cotton Kurta Size- S,2997,2967
+537,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,741,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Pink,2598,2572
+538,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,843,Footwear,Blue Sports Shoes,Athleisure sports shoe - Blue   Size- 9,1399,1385
+539,54,2021-10-21 11:40:00 +0000 +0000,2021-10-21 12:40:00 +0000 +0000,1,1,722,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Grey,2598,2572
+540,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,6,Apparel,Kurti and Sharara Set,Pick any 1 Festive Kurta & Sharara set Carrot Red Size-L,2000,1980
+541,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,851,Home Furnishing,Bedsheet Set,Aurome micro fibre double bedsheet + 2 pillow covers-orange and white print,1299,1286
+542,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,1136,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Embroidered Woollen Fantasy Kurta Grey-Free Size,2999,2969
+543,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,1114,Home Furnishing,Sofa Cushion Cover Set,40 Pc Sofa + Deewan set - Maroon,2999,2969
+544,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,761,Home Furnishing,Embroidered Bedsheet,Royal Roots- Pick any 1 embroidered Bedsheet-Camel,2500,2475
+545,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,1121,Home Furnishing,Comforter Bedsheet Set,Aurome microfibre comforter with double bedsheet & 2 pillow covers-Abstract,2999,2969
+546,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,405,Home & Kitchen," Knives Set & Scissors",Shopper52 7 Piece Stainless Steel Kitchen Knives Set & Knife Scissor     ,1499,1484
+547,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,490,Home & Kitchen,Outdoor camping tent,Anti Ultraviolet Outdoor Camping Foldable Tent Water Resistant Tent   ,2999,2969
+548,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,1268,Home & Kitchen,Wall art,5Frames0294 chirping birds frame,1999,1979
+549,55,2021-10-21 12:00:00 +0000 +0000,2021-10-21 13:00:00 +0000 +0000,1,1,422,Home & Kitchen,Wall Clock 3D Sticker,DIY Wall Clock 3D Sticker Home Office Decor (Covering Area:18*46cm)   ,1999,1979
+550,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,725,Footwear,Women slip on Sandal,Pack of 3 Women's fashion slip on sandals SIZE - 5,2997,2967
+551,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,382,Home & Kitchen,Portable Lunch Bag ,Shopper52 Portable Insulated Lunch Bag (Grey Mix)-LUNCHBAG-GYMX    ,1499,1484
+552,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,397,Home & Kitchen,Wall Clock 3D Sticker,Shopper52 DIY 3D Sticker Decor Wall Clock(Area: 35 x 35 cm )     ,1999,1979
+553,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,1124,Home Furnishing,Comforter Bedsheet Set,Aurome microfibre comforter + double bedsheet & 2 pillow covers-Leaf print,2999,2969
+554,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,384,Home & Kitchen,Portable Lunch Bag ,Shopper52 PortableInsulated Lunch Bag(Pink Color Mix)-LUNCHBAG-PKMX    ,1499,1484
+555,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,717,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Peach,2998,2968
+556,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,695,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Multi,2998,2968
+557,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,377,Home & Kitchen,Insulated Lunch Bag,Canvas Portable Thermal Insulated Lunch Bag with Handle (Multi-24)    ,1499,1484
+558,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,1133,Home Furnishing,Reversible Comforter,"Aurome Reversible Double bed Comforter -Star (Dark & Light Purple ,200 GSM)",2999,2969
+559,56,2021-10-21 12:20:00 +0000 +0000,2021-10-21 13:20:00 +0000 +0000,1,1,1179,Home & Kitchen,Wall art,5Frames0193 colorful abstract frame,1999,1979
+560,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,839,Apparel,Boys T-shirt Set,Pack of 5 Boys Tshirts Size 3-4  yrs,1495,1480
+561,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,1285,Footwear,Casual slip on Shoes,2 Printed comfort slip on shoes SIZE -6,1998,1978
+562,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,2,Kitchen,Food Processor,Wonderchef Manual Food Processor,2000,1980
+563,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,1212,Home & Kitchen,Wall art,5Frames0228 flowers frame,1999,1979
+564,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,745,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Floral,2598,2572
+565,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,1215,Home & Kitchen,Wall art,5Frames0231 sunrise frame,1999,1979
+566,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,735,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Brown,2598,2572
+567,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,480,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Organiser,Water Resistant     ",1499,1484
+568,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,771,Home & Kitchen,3D wall clock Sticker,DIY Designer Creative 3D Stickers Frameless Decorative Wall Clock,1999,1979
+569,57,2021-10-21 12:40:00 +0000 +0000,2021-10-21 13:40:00 +0000 +0000,1,1,1299,Apparel,Sweater Set,Jaasvi Pack of 3 Sweaters-XL,1800,1782
+570,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,1232,Home & Kitchen,Wall art,5Frames0255 autumn frame,1999,1979
+571,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,320,Electronics & Appliances,DIY Wall Clock 3D Sticker,DIY Wall Clock 3D Sticker Decor 3D Wall Clock (Covering Area:60 * 60cm),1999,1979
+572,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,1214,Home & Kitchen,Wall art,5Frames0230 river frame,1999,1979
+573,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,303,Apparel,Kurti and Jacket Set,Pick Any 1 Brocade Pink Jacket & Blue Kurta Size-L,1499,1484
+574,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,1142,Apparel,Embroidered Woolen kurta,Woolkraft Colour Fantasy Woollen Embroidered Kurta Navy Blue-Free Size,2999,2969
+575,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,471,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser Blue  ,1499,1484
+576,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,1194,Home & Kitchen,Wall art,5Frames0210 ship frame,1999,1979
+577,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,1160,Home & Kitchen,Wall art,5Frames0169 snow frame,1999,1979
+578,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,1224,Home & Kitchen,Wall art,5Frames0240 flower frame,1999,1979
+579,58,2021-10-21 13:00:00 +0000 +0000,2021-10-21 14:00:00 +0000 +0000,1,1,725,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater White,2598,2572
+580,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,1162,Home & Kitchen,Wall art,5Frames0171 buddha frame,1999,1979
+581,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,1141,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Color Fantasy Woollen Embroidered Kurta Grey-Free Size,2999,2969
+582,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,300,Apparel,Kurti and Palazzo Set,Curllie Swarnashree Collection Pick Any 1 Kurta & Palazzo Set Pink Size-L,1499,1484
+583,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,713,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super Stretchable Two Seater Blue,2998,2968
+584,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,1150,Apparel,Embroidered Woolen kurta,Woolkraft Pick Any 1 Embroidered Cosy Winter Kurta Beige-Free Size,2999,2969
+585,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,781,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter (Dark & Light Maroon, 200 GSM)",2499,2474
+586,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,1174,Home & Kitchen,Wall art,5Frames0187 radha krishna frame,1999,1979
+587,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,840,Home & Kitchen,barbeque Grill set,Charcoal Portable Folding Barbeque Barbecue Grill for Outdoor Cooking,2999,2969
+588,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,1150,Home & Kitchen,Wall art,5Frames0159 tree frame,1999,1979
+589,59,2021-10-21 13:20:00 +0000 +0000,2021-10-21 14:20:00 +0000 +0000,1,1,1282,Home & Kitchen,Wall art,5Frames0314 flowers frame,1999,1979
+590,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,479,Home & Kitchen,Cubes Set with Travel Bag,Shopper52 6pcs Packing Cubes Portable Storage Organiser  Maroon   ,1499,1484
+591,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,691,Home & Kitchen,Cortina Spandex 2 seater,Cortina Spandex & Polyester Fabric Super StretchableTwo Seater Green,2998,2968
+592,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,758,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester  Super Stretchable One Seater Brown,2598,2572
+593,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,407,Home & Kitchen,Photo Frame Hanger Tools,Magic Insta Hang Instant wall Photo Frame Hanging Hanger Nail Tool Kit    ,1499,1484
+594,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,487,Home & Kitchen,Cubes Set with Travel Bag,"Shopper52 6pcs Packing Cubes Portable Organiser ,Water Resistant(Turquoise)",1499,1484
+595,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,1152,Apparel,Cotton Nighties Set,Must Have Pack of 3 Cotton Nighties Size-M-L,2097,2076
+596,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,769,Home Furnishing,Double bed Comforter,"Aurome Micro fiber Double bed Comforter (Colourful, 120 GSM)",2499,2474
+597,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,1239,Home & Kitchen,Wall art,5Frames0263 tulip flower frame,1999,1979
+598,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,308,Apparel,woolen Kurti and Palazzo,Jaasvi Pack of 2 Woolen Kurti with Palazzo Size-XL,1499,1484
+599,60,2021-10-21 13:40:00 +0000 +0000,2021-10-21 14:40:00 +0000 +0000,1,1,352,Home & Kitchen,Socket Wrench Spanner Set,10 in 1 Socket Wrench Spanner Set - 10PCTK    ,1999,1979
+600,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,320,Home Furnishing,Anti Skid Mat,"Aurome Anti-Skid Cotton Bath/Door Mat Set of 2(Size-51x80 cm, 43x62 cm)",1499,1484
+601,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,778,Home Furnishing,Reversible Comforter,"Aurome Reversible Single bed Comforter -Star (Red and Light Pink, 200 GSM)",2499,2474
+602,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,727,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Orange,2598,2572
+603,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,1144,Apparel,3 Dress Set,Curllie All Set to Dazzle - Pack of 3 Dresses-M,1599,1583
+604,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,847,Home Furnishing,Queen Size Bedsheet Set,"Valito 120 GSM Queen Size Double Bedsheet Set- Floral Print, Brown",1399,1385
+605,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,1143,Apparel,Kurta and Stoll Set,Jaasvi Pack of 2 Woolen Kurtas & 2 Stolls-XL,1599,1583
+606,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,415,Home Furnishing,Anti Skid Bedside Runner,Aurome Anti-Skid Bedside Cotton Runner-Leaf Print (2x5 feet),1999,1979
+607,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,1164,Home & Kitchen,Wall art,5Frames0173 buddha frame,1999,1979
+608,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,738,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Brown,2598,2572
+609,61,2021-10-21 14:00:00 +0000 +0000,2021-10-21 15:00:00 +0000 +0000,1,1,361,Home & Kitchen,Multi Functional Pouch,"Multi Functional Pouch Cosmetic, Travel Handbag, Mp3, Phone, Book  Brown",1499,1484
+610,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,1291,Apparel,Woolen kurta Set,Jaasvi Pack of 3 Woolen Kurtas -XL,1899,1880
+611,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,1155,Home & Kitchen,Wall art,5Frames0164 autumn frame,1999,1979
+612,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,1202,Home & Kitchen,Wall art,5Frames0218 sunset frame,1999,1979
+613,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,752,Home & Kitchen,Cortina Spandex 1 seater,Cortina Spandex & Polyester Fabric Super Stretchable One Seater Blue,2598,2572
+614,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,1150,Apparel,Women's Trendy Sweatshirt,Gary Cooper Pack Of 3 Womens Trendy Sweatshirt Sweatshirts-XXL,2100,2079
+615,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,759,Kitchen,Kitchen Storage Set,Slings 10pcs kitchen Storage with Spice  Rack,2500,2475
+616,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,762,Apparel,Black Lace Saree,Pick Any One Lace Saree  (Black),2499,2474
+617,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,1234,Home & Kitchen,Wall art,5Frames0257 tree frame,1999,1979
+618,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,1221,Home & Kitchen,Wall art,5Frames0237 beach frame,1999,1979
+619,62,2021-10-21 14:20:00 +0000 +0000,2021-10-21 15:20:00 +0000 +0000,1,1,318,Electronics & Appliances,Multipurpose Toolkit,"Multipurpose Magnetic Toolkit for Home, Car, Bike -25 Pieces",1499,1484
+620,63,2021-10-21 14:40:00 +0000 +0000,2021-10-21 15:40:00 +0000 +0000,1,1,768,Home Furnishing,Curtain Set with rings,Aurome Door Curtain Set of 2[7x 4Ft] 3D Printed with Polyester Steel Rings,2499,2474
+621,63,2021-10-21 14:40:00 +0000 +0000,2021-10-21 15:40:00 +0000 +0000,1,1,426,Home & Kitchen,Travel Shoe Storage,Shopper52 Multi-Purpose Travel  Footwear Organizer(2 Layer Bag) Brown,1499,1484
+622,63,2021-10-21 14:40:00 +0000 +0000,2021-10-21 15:40:00 +0000 +0000,1,1,1159,Kitchen,Cook & Serve,SNB Pick Any 1 - 20 Pcs Handi & Lid Bowl Set Red,2999,2969
+623,63,2021-10-21 14:40:00 +0000 +0000,2021-10-21 15:40:00 +0000 +0000,1,1,1163,Home & Kitchen,Wall art,5Frames0172 buddha frame,1999,1979
